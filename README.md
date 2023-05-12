@@ -12,7 +12,7 @@ I'm always eager to learn and grow as a developer. Currently, I'm diving deeper 
 With several years of experience in the industry, I have a strong foundation in software development principles and best practices. I'm passionate about writing clean, efficient code and delivering high-quality solutions. My ability to adapt to new technologies quickly allows me to stay up-to-date with the latest industry trends.
 
 ## 🤝 Let's connect!
-I'm open to collaborations, job opportunities, and interesting projects. Feel free to reach out to me via [email address](nidhal.nouma.0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nidhal-nouma/). Let's discuss how we can work together to create impactful software solutions.
+I'm open to collaborations, job opportunities, and interesting projects. Feel free to reach out to me via [email](mailto:nidhal.nouma.0@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/nidhal-nouma/). Let's discuss how we can work together to create impactful software solutions.
 
 Thank you for visiting my GitHub profile. Explore my repositories to see some of my projects and contributions. Don't forget to leave a star ⭐️ if you find something interesting!
 
